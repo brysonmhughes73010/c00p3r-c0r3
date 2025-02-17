@@ -1,3 +1,5 @@
+THIS IS NOT FINSIHED!! YET TO BE TESTED!!!
+
 MAKE BY GITHUB CO-PILOT AND A SKIDDY CODE STEALER
 (yes i just exposed myself but idrc)
 (have fun, USE RESPONSIBLY)
