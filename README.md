@@ -3,7 +3,7 @@ THIS IS NOT FINSIHED!! YET TO BE TESTED!!!
 MAKE BY AI AND A SKIDDY CODE STEALER
 (yes i just exposed myself but idrc)
 (have fun, USE RESPONSIBLY)
-ANY DAMAGE CAUSED BY THIS SOFTWARE IS NOT MY FAULT!
+ANY POTENTIAL DAMAGE CAUSED BY THIS SOFTWARE IS NOT MY FAULT!
 FOLLOW YOUR LAWS!!! (highly recommended lmao)
 most credit goes out to the code makers of course
 
