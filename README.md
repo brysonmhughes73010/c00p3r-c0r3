@@ -40,7 +40,7 @@ K00P3R (C0PP3R-C0R3) is a versatile tool for managing and interacting with your 
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/k00p3r-c0r3.git
+   git clone https://github.com/brysonmhughes73010/k00p3r-c0r3.git
    cd k00p3r-c0r3
    ```
 
@@ -63,10 +63,6 @@ K00P3R (C0PP3R-C0R3) is a versatile tool for managing and interacting with your 
    - **Device Info**: Click the "Device Info" button to display information about the ESP32 device.
    - **Restart**: Click the "Restart" button to restart the ESP32.
    - **BLE Spam**: Click the "BLE Spam" button to start advertising BLE packets.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 
